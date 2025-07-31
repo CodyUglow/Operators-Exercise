@@ -1,0 +1,15 @@
+C:\Users\black\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.AssemblyInfoInputs.cache
+C:\Users\black\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.AssemblyInfo.cs
+C:\Users\black\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\black\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.sourcelink.json
+C:\Users\black\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\bin\Debug\net9.0\OperatorExercise.exe
+C:\Users\black\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\bin\Debug\net9.0\OperatorExercise.deps.json
+C:\Users\black\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\bin\Debug\net9.0\OperatorExercise.runtimeconfig.json
+C:\Users\black\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\bin\Debug\net9.0\OperatorExercise.dll
+C:\Users\black\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\bin\Debug\net9.0\OperatorExercise.pdb
+C:\Users\black\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.dll
+C:\Users\black\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\refint\OperatorExercise.dll
+C:\Users\black\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.pdb
+C:\Users\black\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\OperatorExercise.genruntimeconfig.cache
+C:\Users\black\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net9.0\ref\OperatorExercise.dll
